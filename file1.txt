@@ -2,4 +2,8 @@ hi
 <<<<<<< HEAD
 =======
 hello
+<<<<<<< HEAD
 >>>>>>> branch1
+=======
+bye
+>>>>>>> branch2
